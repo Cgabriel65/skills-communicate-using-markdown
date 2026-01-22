@@ -5,3 +5,6 @@ At the bottom of the page, type a short, meaningful commit message that describe
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
